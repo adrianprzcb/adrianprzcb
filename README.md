@@ -14,9 +14,13 @@
 </div>
 
 ### :fire: Most used languages in this Github:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianprzcb&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianprzcb)
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianprzcb&layout=compact&theme=vision-friendly-dark)
+
+
+
 **adrianprzcb/adrianprzcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianprzcb&show_icons=true)
 Here are some ideas to get you started:
