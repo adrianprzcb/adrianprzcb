@@ -1,4 +1,8 @@
 ### Hi there 👋 I am Adrián, a software Developer.
+
+Mainly I am developing Android Apps for my own Google Play Account. 
+
+
 ### :hammer_and_wrench: Some of my skills :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
