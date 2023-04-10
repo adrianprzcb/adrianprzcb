@@ -16,6 +16,20 @@ Mainly I am developing Android Apps for my own Google Play Account.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#"  alt="C#" width="40" height="40"/>&nbsp;
 </div>
+
+### 📊 Estadísticas
+
+<div align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adrianprzcb&theme=radical)](https://git.io/streak-stats)     
+  
+  ![GonzaloRando03 GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianprzcb&show_icons=true&theme=radical)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianprzcb&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
+
 <!--
 ### :fire: Most used languages in this Github:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianprzcb)
