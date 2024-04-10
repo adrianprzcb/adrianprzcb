@@ -20,6 +20,8 @@ Mainly I am developing Android Apps for my own Google Play Account.
 ### 📊 Estadísticas
 
 <div align="center">
+    ![Adrian GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianprzcb&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianprzcb&layout=compact&theme=vision-friendly-dark)
 
 </div>
