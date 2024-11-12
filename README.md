@@ -34,7 +34,7 @@ I know some other technologies such as Python or Js, and I am also continuously 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#"  alt="C#" width="40" height="40"/>&nbsp;
 </div>
 
-### 📊 Estadísticas
+### 📊 Stats
 
 <div align="center">
 
