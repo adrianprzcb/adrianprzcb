@@ -46,7 +46,7 @@ I know some other technologies such as Python or Js, and I am also continuously 
 
 <!--
 
-### 📊 Estadísticas
+### 📊 Stats
 
 <div align="center">
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adrianprzcb&theme=radical)](https://git.io/streak-stats)     
