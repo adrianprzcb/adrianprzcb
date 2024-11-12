@@ -1,7 +1,16 @@
-### Hi there 👋 I am Adrián, a software Developer.
+### 
+Hi there 👋 I am Adrián, a software Developer.
 
-Mainly I am developing Android Apps for my own Google Play Account. 
+🔗 Check out my work:
+Google Play Developer Account: https://bit.ly/mydeveloperaccount
 
+💼 Main Skills:
+Java, Spring | Backend Development
+Kotlin, Jetpack Compose | Android Development
+
+I know some other technologies such as Python or Js, and I am also continuously expanding my skill set, eager to explore and integrate new technologies.
+
+📩Contact: https://www.linkedin.com/in/adrianprzcobo
 
 ### :hammer_and_wrench: Some of my skills :
 <div>
