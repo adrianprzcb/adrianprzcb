@@ -45,8 +45,6 @@ I know some other technologies such as Python or Js, and I am also continuously 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianprzcb&layout=compact&theme=vision-friendly-dark)
 <!--profile visit count-->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=adrianprzcb&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)  
-</div>
+  </div>
 </div>
 
