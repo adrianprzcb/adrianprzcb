@@ -46,7 +46,7 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
+<table align="center" border="none">
 <tr border="none">
 <td width="50%" align="center">
   
