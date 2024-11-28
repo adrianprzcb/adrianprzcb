@@ -83,12 +83,6 @@ I know some other technologies such as Python or Js, and I am also continuously 
 📩Contact: https://www.linkedin.com/in/adrianprzcobo
 
 
-
-### 📊 Stats
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianprzcb&layout=compact&theme=vision-friendly-dark)
 <!--profile visit count-->
 <div align="center">
   
