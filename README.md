@@ -8,6 +8,15 @@
   </ul>
 </div>
 
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Software Developer specialized in Java & Spring backend development as well as Android Development.</h2></summary>
+  </ul>
+</div>
+
+
+
 <p align="center">
 🔗 Check out my Android Apps: https://bit.ly/mydeveloperaccount
 
