@@ -8,11 +8,17 @@
   </ul>
 </div>
 
-
+<p align="center">
 🔗 Check out my Android Apps: https://bit.ly/mydeveloperaccount
 
+</p>
 
-💼 Main Skills:
+
+<p align="center">
+  💼 Main Skills:
+
+</p>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
