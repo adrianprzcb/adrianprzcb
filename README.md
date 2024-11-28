@@ -9,12 +9,17 @@
 </div>
 
 
-🔗 Check out my work:
-
-Google Play Developer Account: https://bit.ly/mydeveloperaccount
+🔗 Check out my Android Apps: https://bit.ly/mydeveloperaccount
 
 
 💼 Main Skills:
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postman,github&perline=14" />
+  </a>
+</p>
+
 
 Java, Spring | Backend Development
 
