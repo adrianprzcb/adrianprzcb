@@ -34,14 +34,6 @@
 
 
 
-Java, Spring | Backend Development
-
-Kotlin, Jetpack Compose | Android Development
-
-
-I know some other technologies such as Python or Js, and I am also continuously expanding my skill set, eager to explore and integrate new technologies.
-
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
