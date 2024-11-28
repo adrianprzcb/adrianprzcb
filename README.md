@@ -14,17 +14,24 @@
 </p>
 
 
-<p align="center">
-  💼 Main Skills:
-
-</p>
-
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Main Technologies that I use👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,postman,github&perline=14" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,android&perline=14" />
+  </a>
+</p>
+
 
 
 Java, Spring | Backend Development
