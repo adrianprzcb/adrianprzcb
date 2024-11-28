@@ -11,7 +11,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Software Developer specialized in Java & Spring backend development as well as Android Development.</h2></summary>
+    <summary><h3 style="display: inline-block">Software Developer specialized in Java & Spring backend development as well as Android Development.</h3></summary>
   </ul>
 </div>
 
