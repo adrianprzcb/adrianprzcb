@@ -46,8 +46,7 @@ I know some other technologies such as Python or Js, and I am also continuously 
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+[![](https://visitcount.itsvg.in/api?id=adrianprzcb&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)  
 </div>
 </div>
 
