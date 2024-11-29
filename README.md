@@ -43,11 +43,11 @@
 <p align="center">
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianprzcb&theme=dark&hide_border=false" /> 
 </p>
-
+<!--
 <p align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adrianprzcb&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
 </p>
-
+-->
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
