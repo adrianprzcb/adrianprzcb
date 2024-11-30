@@ -38,7 +38,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,intellij,visualstudiocode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,idea,vscode&perline=14" />
   </a>
 </p>
 <p align="center">
