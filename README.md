@@ -42,7 +42,8 @@
   </a>
 </p>
 <p align="center">
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianprzcb&theme=dark&hide_border=false" /> 
+ <!-- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianprzcb&theme=dark&hide_border=false" /> -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=adrianprzcb)](https://git.io/streak-stats)
 </p>
 <!--
 <p align="center">
