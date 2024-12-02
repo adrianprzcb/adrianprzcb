@@ -43,8 +43,9 @@
 </p>
 <p align="center">
  <!-- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianprzcb&theme=dark&hide_border=false" /> -->
-  [![GitHub Streak](https://github-readme-streak-stats-eight-eosin.vercel.app?user=adrianprzcb&theme=blue-green&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
 </p>
+  [![GitHub Streak](https://github-readme-streak-stats-eight-eosin.vercel.app?user=adrianprzcb&theme=blue-green&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
 <!--
 <p align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adrianprzcb&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
