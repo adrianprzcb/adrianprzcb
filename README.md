@@ -43,8 +43,7 @@
 </p>
 <p align="center">
  <!-- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianprzcb&theme=dark&hide_border=false" /> -->
-  <img title="." alt="Streak" src="https://streak-stats.demolab.com?user=adrianprzcb&theme=dark&hide_border=true&hide_longest_streak=true" />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+  <a title="." alt="Streak" src="https://streak-stats.demolab.com?user=adrianprzcb&theme=dark&hide_border=true&hide_longest_streak=true" />
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=adrianprzcb&theme=dark&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)-->
 </p>
 <!--
