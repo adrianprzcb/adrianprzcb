@@ -42,7 +42,7 @@
   </a>
 </p>
 <p align="center">
-  <img title="." alt="streak" src="https://github-readme-streak-stats-eight-eosin.vercel.app?user=adrianprzcb&theme=dark&hide_longest_streak=true" />
+ <!--   <img title="." alt="streak" src="https://github-readme-streak-stats-eight-eosin.vercel.app?user=adrianprzcb&theme=dark&hide_longest_streak=true" /> -->
     <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-eosin.vercel.app?user=" alt="GitHub Streak" /></a> -->
 
   
