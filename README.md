@@ -17,13 +17,13 @@
 </div>
 
 
-<!--
+
 
 <p align="center">
 🔗 Check out my Android Apps: https://bit.ly/mydeveloperaccount
 
 </p>
--->
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
