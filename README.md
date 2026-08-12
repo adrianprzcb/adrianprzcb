@@ -20,7 +20,7 @@
 
 
 <p align="center">
-🔗 Check out my Android Apps: [My Store](https://play.google.com/store/apps/dev?id=8977782208284151312)
+🔗 Check out my Android Apps: https://play.google.com/store/apps/dev?id=8977782208284151312
 
 </p>
 
