@@ -82,39 +82,6 @@ One of my recent projects is **Quiet Circuit: Idle Network**, an incremental And
 
 ---
 
-## 🧩 What I Like Building
-
-| Backend Systems          | Android Products     | Software Engineering |
-| :----------------------- | :------------------- | :------------------- |
-| REST APIs                | Native Android apps  | Clean architecture   |
-| Microservices            | Kotlin applications  | Maintainable code    |
-| Business logic           | Mobile UI/UX         | API design           |
-| Database-backed services | Published products   | Data modelling       |
-| Distributed components   | Independent projects | Testing & debugging  |
-
----
-
-## 🔍 Currently Focused On
-
-```text
-Backend Engineering
-├── Java
-├── Spring Boot
-├── REST API Design
-├── Microservices
-├── Persistence / JPA / Hibernate
-├── Security
-└── Distributed Systems
-
-Android
-├── Kotlin
-├── Native Android Development
-├── Product Development
-└── Google Play Publishing
-```
-
----
-
 ## 📂 Selected Repositories. Projects & Experience
 
 Most of my Java and Spring Boot experience comes from professional work for companies, where I have worked on backend systems, REST APIs, business logic, databases and microservice-based applications.
