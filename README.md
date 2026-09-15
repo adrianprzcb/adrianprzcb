@@ -117,33 +117,11 @@ Android
 
 ## 📂 Selected Repositories
 
-### Backend & Java
+### Currently most of my main projects are in private repositories. 
 
-* ☕ [Banking-System-SPRING](https://github.com/adrianprzcb/Banking-System-SPRING)
-* 🌱 [Spring Microservices](https://github.com/adrianprzcb/CursoSpringMicroserviciosUdemyAndresGuzman)
-* 🧩 [Spring Framework](https://github.com/adrianprzcb/cursoSpringFrameworkUdemyAndresGuzman)
-
-### Android
-
-* 📱 [Android Kotlin Projects](https://github.com/adrianprzcb/AndroidKotlinAristiDev)
-* 🤖 [Android Projects](https://github.com/adrianprzcb/Proyectos-Android-OW)
-* 🍎 [FrutiApp](https://github.com/adrianprzcb/FrutiApp)
-* ⏰ [Snoozeloo](https://github.com/adrianprzcb/Snoozeloo)
-
-### Other Projects
-
-* 🌐 [Portfolio Website](https://github.com/adrianprzcb/PortfolioWebsite)
-* ➗ [Infinite Math Operations](https://github.com/adrianprzcb/InfiniteMathOperations)
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in **backend development, software architecture, Java/Spring projects and interesting product ideas**.
 
 <p align="center">
 
-\
 
 </p>
 
