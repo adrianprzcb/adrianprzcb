@@ -9,9 +9,6 @@ I build **backend systems, REST APIs, microservices and Android applications**, 
 <br>
 
 
-
-\
-
 </div>
 
 ---
