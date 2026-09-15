@@ -39,10 +39,10 @@ REST APIs · Microservices · Spring Security · JWT · Maven · Gradle
 ### Data & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,redis,kafka,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,kafka,docker" />
 </p>
 
-**MySQL** · Oracle · Redis · Kafka · Docker · SQL
+**MySQL** · Oracle · Kafka · Docker · SQL
 
 ### Android
 
