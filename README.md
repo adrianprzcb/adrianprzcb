@@ -115,10 +115,14 @@ Android
 
 ---
 
-## 📂 Selected Repositories
+## 📂 Selected Repositories. Projects & Experience
 
-### Currently most of my main projects are in private repositories. 
+Most of my Java and Spring Boot experience comes from professional work for companies, where I have worked on backend systems, REST APIs, business logic, databases and microservice-based applications.
 
+Because of this, a large part of my backend experience is not represented in public repositories.
+
+For personal projects, I mainly focus on Android development, and several of my apps are published on Google Play:
+https://play.google.com/store/apps/dev?id=8977782208284151312 
 
 <p align="center">
 
