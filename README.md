@@ -1,13 +1,18 @@
 <div align="center">
 
-# Hi, I'm Adrián Pérez Cobo👋
+# Hi, I'm Adrián Pérez Cobo 👋
 
-### Backend Software Developer · Java & Spring Boot · Android Developer
+### Backend Developer · Java & Spring Boot · Microservices
 
-I build **backend systems, REST APIs, microservices and Android applications**, with a strong focus on clean architecture, maintainable code and real-world products.
+I build **backend applications, REST APIs and microservices** with Java and Spring Boot.
+
+I also develop and publish **native Android applications with Kotlin and Jetpack Compose**.
 
 <br>
 
+[Portfolio](https://adrianprzcb.github.io/) ·
+[LinkedIn](https://www.linkedin.com/in/adrianprzcobo/) ·
+[Google Play](https://play.google.com/store/apps/dev?id=8977782208284151312)
 
 </div>
 
@@ -15,13 +20,11 @@ I build **backend systems, REST APIs, microservices and Android applications**, 
 
 ## 👨‍💻 About Me
 
-I'm a **Software Developer focused primarily on Backend Engineering with Java and Spring Boot**.
+I'm a **Backend Developer focused on Java and Spring Boot**, with professional experience working on backend applications, REST APIs, microservices, business logic, database persistence and service integration.
 
-My professional work revolves around designing, implementing and maintaining backend applications, including **REST APIs, database persistence, business logic and microservice-based systems**.
+I have also worked with technologies such as **Apache Kafka, Redis, SQL, Oracle, Swagger/OpenAPI, Postman and Git**.
 
-Alongside backend development, I also build **native Android applications with Kotlin**, taking personal projects from the initial idea all the way to publication on Google Play.
-
-I enjoy working on projects where I can understand the whole system — not only writing code, but also thinking about **architecture, data modelling, API design, performance and maintainability**.
+Alongside backend development, I build **native Android applications with Kotlin and Jetpack Compose**. I have developed more than 10 Android apps, with several of them published on Google Play.
 
 ---
 
@@ -33,24 +36,24 @@ I enjoy working on projects where I can understand the whole system — not only
   <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle" />
 </p>
 
-**Java 8 / 17 / 21** · **Spring Boot** · Spring Framework · Spring Data JPA · Hibernate
-REST APIs · Microservices · Spring Security · JWT · Maven · Gradle
+**Java 8 / 17 / 21** · **Spring Boot** · Spring Framework ·  
+REST APIs · Microservices · Spring Data JPA · Hibernate
 
-### Data & Infrastructure
+### Data & Integration
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,kafka,docker" />
+  <img src="https://skillicons.dev/icons?i=kafka,redis,docker" />
 </p>
 
-**MySQL** · Oracle · Kafka · Docker · SQL
+**Apache Kafka** · Redis · SQL · Oracle · Docker
 
 ### Android
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
 </p>
 
-**Kotlin** · Android SDK · Android Studio · Firebase
+**Kotlin** · **Jetpack Compose** · Android SDK · Android Studio
 
 ### Development Tools
 
@@ -58,46 +61,69 @@ REST APIs · Microservices · Spring Security · JWT · Maven · Gradle
   <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" />
 </p>
 
-Git · GitHub · IntelliJ IDEA · Android Studio · VS Code · Postman
+Git · GitHub · IntelliJ IDEA · VS Code · Postman · Swagger / OpenAPI
 
 ---
 
-### 📱 Android Applications
+## 💼 Professional Experience
 
-Besides backend development, I independently design, develop and publish Android applications.
+### Backend Developer — Iconsulting365
+`2025 — 2026`
 
-This gives me experience beyond coding itself, including:
+Development and maintenance of backend applications with **Java and Spring Boot**.
 
-* Product design and feature planning
-* Android UI development
-* Local data and application state
-* Firebase integrations
-* Advertising and monetization
-* Localization
-* Google Play releases and production updates
+Worked with:
 
-### ▶️ Published on Google Play
+`REST APIs` · `Microservices` · `Apache Kafka` · `SQL` · `Oracle` · `Swagger / OpenAPI` · `Postman` · `Git`
 
-One of my recent projects is **Quiet Circuit: Idle Network**, an incremental Android game built around network progression, upgrades, persistent systems and offline progression.
+### Backend Developer — SOLTEL Group
+`2023 — 2024`
+
+Development and maintenance of backend applications using **Java and Spring**, working with REST APIs, microservices, SQL databases and service testing.
 
 ---
 
-## 📂 Selected Repositories. Projects & Experience
+## 📱 Android Development
 
-Most of my Java and Spring Boot experience comes from professional work for companies, where I have worked on backend systems, REST APIs, business logic, databases and microservice-based applications.
+Alongside my backend career, I independently design, develop and publish Android applications using **Kotlin and Jetpack Compose**.
 
-Because of this, a large part of my backend experience is not represented in public repositories.
+I have developed **10+ Android applications**, with several available on Google Play.
 
-For personal projects, I mainly focus on Android development, and several of my apps are published on Google Play:
-https://play.google.com/store/apps/dev?id=8977782208284151312 
+This includes working on:
 
-<p align="center">
+- Application architecture and state management
+- UI development with Jetpack Compose
+- Local persistence
+- Localization
+- Monetization and advertising
+- Google Play publishing and production releases
 
+### ▶️ Google Play
 
-</p>
+One of my published projects is **Quiet Circuit: Idle Network**, an incremental Android game based around network progression, upgrades, persistent systems and offline progress.
+
+👉 [View my apps on Google Play](https://play.google.com/store/apps/dev?id=8977782208284151312)
+
+---
+
+## 📂 Projects & GitHub
+
+A significant part of my Java and Spring Boot experience comes from **professional projects**, so not all of my backend work can be represented in public repositories.
+
+My GitHub contains personal backend projects, experiments and Android development work.
+
+👉 [github.com/adrianprzcb](https://github.com/adrianprzcb)
+
+---
 
 <div align="center">
 
-### `Java` · `Spring Boot` · `Backend` · `Microservices` · `Kotlin` · `Android`
+### `Java` · `Spring Boot` · `REST APIs` · `Microservices` · `Kafka` · `Kotlin` · `Jetpack Compose`
+
+<br>
+
+[🌐 Portfolio](https://adrianprzcb.github.io/) ·
+[💼 LinkedIn](https://www.linkedin.com/in/adrianprzcobo/) ·
+[📱 Google Play](https://play.google.com/store/apps/dev?id=8977782208284151312)
 
 </div>
