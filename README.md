@@ -104,21 +104,6 @@ One of my published projects is **Quiet Circuit: Idle Network**, an incremental 
 
 👉 [View my apps on Google Play](https://play.google.com/store/apps/dev?id=8977782208284151312)
 
----
-
-## 📂 Projects & GitHub
-
-A significant part of my Java and Spring Boot experience comes from **professional projects**, so not all of my backend work can be represented in public repositories.
-
-My GitHub contains personal backend projects, experiments and Android development work.
-
-👉 [github.com/adrianprzcb](https://github.com/adrianprzcb)
-
----
-
-<div align="center">
-
-### `Java` · `Spring Boot` · `REST APIs` · `Microservices` · `Kafka` · `Kotlin` · `Jetpack Compose`
 
 <br>
 
