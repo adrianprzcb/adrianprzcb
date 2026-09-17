@@ -93,7 +93,6 @@ This includes working on:
 
 - Application architecture and state management
 - UI development with Jetpack Compose
-- Local persistence
 - Localization
 - Monetization and advertising
 - Google Play publishing and production releases
