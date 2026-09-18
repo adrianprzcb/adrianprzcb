@@ -65,41 +65,7 @@ Git · GitHub · IntelliJ IDEA · VS Code · Postman · Swagger / OpenAPI
 
 ---
 
-## 💼 Professional Experience
-
-### Backend Developer — Iconsulting365
-`2025 — 2026`
-
-Development and maintenance of backend applications with **Java and Spring Boot**.
-
-Worked with:
-
-`REST APIs` · `Microservices` · `Apache Kafka` · `SQL` · `Oracle` · `Swagger / OpenAPI` · `Postman` · `Git`
-
-### Backend Developer — SOLTEL Group
-`2023 — 2024`
-
-Development and maintenance of backend applications using **Java and Spring**, working with REST APIs, microservices, SQL databases and service testing.
-
----
-
-## 📱 Android Development
-
-Alongside my backend career, I independently design, develop and publish Android applications using **Kotlin and Jetpack Compose**.
-
-I have developed **10+ Android applications**, with several available on Google Play.
-
-This includes working on:
-
-- Application architecture and state management
-- UI development with Jetpack Compose
-- Localization
-- Monetization and advertising
-- Google Play publishing and production releases
-
 ### ▶️ Google Play
-
-One of my published projects is **Quiet Circuit: Idle Network**, an incremental Android game based around network progression, upgrades, persistent systems and offline progress.
 
 👉 [View my apps on Google Play](https://play.google.com/store/apps/dev?id=8977782208284151312)
 
