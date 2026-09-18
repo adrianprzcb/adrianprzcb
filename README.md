@@ -65,10 +65,6 @@ Git · GitHub · IntelliJ IDEA · VS Code · Postman · Swagger / OpenAPI
 
 ---
 
-### ▶️ Google Play
-
-👉 [View my apps on Google Play](https://play.google.com/store/apps/dev?id=8977782208284151312)
-
 
 <br>
 
