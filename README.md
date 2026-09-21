@@ -74,13 +74,6 @@ Git · GitHub · IntelliJ IDEA · VS Code · Postman · Swagger / OpenAPI
 
 </div>
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianprzcb&theme=github-compact&hide_border=true" />
-
-</div>
 
 ---
 
