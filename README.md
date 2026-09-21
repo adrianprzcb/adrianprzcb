@@ -74,17 +74,11 @@ Git · GitHub · IntelliJ IDEA · VS Code · Postman · Swagger / OpenAPI
 
 </div>
 
-## 📊 GitHub Stats
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adrianprzcb&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianprzcb&layout=compact&hide_border=true&langs_count=8" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=adrianprzcb&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianprzcb&theme=github-compact&hide_border=true" />
 
 </div>
 
