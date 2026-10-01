@@ -10,6 +10,7 @@ I also develop and publish **native Android applications with Kotlin and Jetpack
 
 <br>
 
+
 [Portfolio](https://adrianprzcb.github.io/) ·
 [LinkedIn](https://www.linkedin.com/in/adrianprzcobo/) ·
 [Google Play](https://play.google.com/store/apps/dev?id=8977782208284151312)
