@@ -18,6 +18,7 @@ I also develop and publish **native Android applications with Kotlin and Jetpack
 
 ---
 
+
 ## 👨‍💻 About Me
 
 I'm a **Backend Developer focused on Java and Spring Boot**, with professional experience working on backend applications, REST APIs, microservices, business logic, database persistence and service integration.
